@@ -1,0 +1,7 @@
+{
+  "name": "Jewar Press",
+  "description": "A high-performance, professional news portal with real-time news coverage, live broadcasting simulations, and AI-powered news summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
